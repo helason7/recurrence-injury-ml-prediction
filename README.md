@@ -70,5 +70,6 @@ Model akan dievaluasi dengan Confusion Metrics
 2. https://www.alodokter.com/serba-serbi-penanganan-cedera-engkel-yang-tepat
 3. https://www.rspondokindah.co.id/id/news/intaian-cedera-lutut-bagi-pemain-basket
 ```
-
+## Url Apps
+`https://huggingface.co/spaces/HelasOn7/Basketball_Player_Injury`
 ---
