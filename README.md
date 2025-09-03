@@ -1,4 +1,4 @@
-# Model ML untuk Memprediksi & Merehabilitasi Cedera
+# ML Model Classification
 
 ## Repository Outline
 ```
